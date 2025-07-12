@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jagadeesh Duggirala</h1>
+<h1 align="center">Hi !! I'm Jagadeesh Duggirala</h1>
 <h3 align="center">A passionate web developer/ CyberSecurity Enthusiast from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrcrafter32&label=Profile%20views&color=0e75b6&style=flat" alt="mrcrafter32" /> </p>
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **CEH**
 
-- 💬 Ask me about **react, nodejs, nextjs, tailwindcss**
+- 💬 Ask me about **React, NodeJS, NextJS, TailwindCSS, Burp Suite, Wazuh, VAPT**
 
 - 📫 How to reach me **jagadeeshchandra08@gmail.com**
 
