@@ -5,9 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrcrafter32" alt="mrcrafter32" /></a> </p>
 
-- 🔭 I’m currently working on **Deceptor**
-
-- 🌱 I’m currently learning **CEH**
+- 🔭 I’m currently a 4th Year BTech Cyber Security Student studying at NIIT University, Nemmrana, Rajasthan.
 
 - 💬 Ask me about **React, NodeJS, NextJS, TailwindCSS, Burp Suite, Wazuh, VAPT**
 
